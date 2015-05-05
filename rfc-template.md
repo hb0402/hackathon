@@ -1,6 +1,6 @@
 #Title
 
-by Hannah
+by Hannah Bruce
 
 ## TMCS Hackathon
 
